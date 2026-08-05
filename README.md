@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/phoenix-profile-banner.gif" alt="Phoenix Sem Garantia" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=25&pause=1400&color=E6EDF3&center=true&vCenter=true&width=620&height=52&lines=PHOENIX+SEM+GARANTIA" alt="Phoenix Sem Garantia" />
-  <br />
   <code>SUPORTE N2 · INFRAESTRUTURA · CYBERSECURITY</code>
   <p>Resolvendo problemas, automatizando rotinas e construindo uma base sólida em sistemas e redes.</p>
 </div>
