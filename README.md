@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/ctos-banner.gif" alt="Banner PhoenixSemGarantia" width="100%" />
+  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/ctos-banner-framed.gif" alt="Banner PhoenixSemGarantia" width="100%" />
 
   <h1>PhoenixSemGarantia</h1>
   <p><b>SUPORTE N2&nbsp;&nbsp;·&nbsp;&nbsp;INFRAESTRUTURA&nbsp;&nbsp;·&nbsp;&nbsp;CYBERSECURITY</b></p>
