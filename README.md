@@ -1,43 +1,56 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:4c1d95,100:00d4ff&height=220&section=header&text=Phoenix%20Sem%20Garantia&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Construindo%20experi%C3%AAncias%20digitais%20fora%20do%20comum.&descAlignY=58&descSize=16" alt="Banner Phoenix Sem Garantia" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=185&section=header&text=PHOENIX%20SEM%20GARANTIA&fontSize=42&fontColor=FFFFFF&fontAlignY=48&stroke=FF2A2A&strokeWidth=2&animation=blink" alt="PHOENIX SEM GARANTIA" width="100%" />
 
-  <a href="https://github.com/PhoenixSemGarantia">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=540&lines=Front-end+criativo+%E2%9C%A6;React%2C+Motion+e+Three.js;Transformando+ideias+em+experi%C3%AAncias" alt="Texto animado" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=800&size=20&pause=850&color=FF2A2A&center=true&vCenter=true&width=640&lines=SEM+PROMESSAS.+S%C3%93+C%C3%93DIGO.;INTERFACES+COM+IMPACTO.;BUILD.+BREAK.+REBUILD." alt="Manifesto animado" />
 </div>
 
 <br />
 
-## Olá! Eu sou o Phoenix 👋
+<table>
+  <tr>
+    <td width="34%"><h2>001 / QUEM</h2><b>PHOENIX</b><br/><br/>Front-end criativo. Interfaces que não pedem licença para existir.</td>
+    <td width="33%"><h2>002 / ONDE</h2><b>BRASIL</b><br/><br/>Online. Construindo no espaço entre design, código e movimento.</td>
+    <td width="33%"><h2>003 / STATUS</h2><b>EM CONSTRUÇÃO</b><br/><br/>Sempre testando a próxima ideia.</td>
+  </tr>
+</table>
 
-Crio interfaces imersivas, rápidas e com personalidade. Meu foco é combinar design, movimento e código para transformar uma boa ideia em algo que dá vontade de explorar.
+---
+
+## `> STACK_ATUAL`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,threejs,js,html,css,git,github&theme=dark" alt="Tecnologias: React, Vite, Three.js, JavaScript, HTML, CSS, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=react,vite,threejs,js,html,css,git,github&theme=dark" alt="React, Vite, Three.js, JavaScript, HTML, CSS, Git e GitHub" />
 </div>
 
 <br />
+
+```txt
+[ REACT ]        UI QUE RESPONDE
+[ MOTION ]       MOVIMENTO COM INTENÇÃO
+[ THREE.JS ]     PROFUNDIDADE E CAOS CONTROLADO
+[ VITE ]         RÁPIDO DO ZERO AO DEPLOY
+```
+
+---
+
+## `> TELEMETRIA`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PhoenixSemGarantia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=9d4edd&text_color=c9d1d9&ring_color=00d4ff" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=PhoenixSemGarantia&hide_border=true&background=0D1117&ring=00D4FF&fire=9D4EDD&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sequência de contribuições" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhoenixSemGarantia&show_icons=true&hide_border=false&border_color=FF2A2A&border_radius=0&bg_color=000000&title_color=FFFFFF&icon_color=FF2A2A&text_color=FFFFFF&ring_color=FF2A2A" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=PhoenixSemGarantia&hide_border=false&border=FF2A2A&background=000000&ring=FF2A2A&fire=FFFFFF&currStreakLabel=FF2A2A&sideLabels=FFFFFF&dates=AAAAAA&stroke=FF2A2A&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=0" alt="Sequência de contribuições" />
 </div>
 
-<br />
+---
 
-### No meu laboratório
-
-- Experiências web com React e Vite
-- Animações fluidas com Motion
-- Cenas e detalhes 3D com Three.js
-- Interfaces escuras, limpas e cheias de atmosfera
+## `> RASTRO_DE_CONTRIBUIÇÕES`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" width="100%" />
 </div>
 
 <div align="center">
-  <sub>Feito com código, curiosidade e uma dose saudável de caos criativo.</sub>
+  <h3>SEM GARANTIA. COM INTENÇÃO.</h3>
+  <sub>© PHOENIX // BUILD DIFFERENT</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,55:4c1d95,100:0d1117&height=110&section=footer" alt="Rodapé decorativo" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF2A2A&height=20&section=footer" alt="" width="100%" />
