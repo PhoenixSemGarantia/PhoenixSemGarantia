@@ -69,29 +69,9 @@
 
 > Projetos em planejamento ainda não representam ferramentas prontas. O AGAELMAH é o projeto concluído do portfólio.
 
-## 04 — PRÓXIMOS PASSOS
-
-```txt
-[x] Consolidar experiência prática em Suporte N2
-[x] Construir AGAELMAH
-[ ] Criar automações úteis com Python
-[ ] Aprofundar infraestrutura, redes e análise de logs
-[ ] Evoluir NET-SHIELD e LOG-HUNTER do planejamento para protótipos
-```
-
-<div align="center">
-  <sub>APRENDIZADO ATUAL</sub><br /><br />
-  <kbd>&nbsp;PYTHON&nbsp;</kbd>
-  <kbd>&nbsp;FLASK&nbsp;</kbd>
-  <kbd>&nbsp;CUSTOMTKINTER&nbsp;</kbd>
-  <kbd>&nbsp;REDES&nbsp;</kbd>
-  <kbd>&nbsp;LOG ANALYSIS&nbsp;</kbd>
-  <kbd>&nbsp;LINUX&nbsp;</kbd>
-</div>
-
 ---
 
-## 05 — ATIVIDADE
+## 04 — ATIVIDADE
 
 <div align="center">
   <sub>CONTRIBUTION STREAK</sub>
