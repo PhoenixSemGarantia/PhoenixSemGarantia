@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/phoenix-banner.gif" alt="Phoenix Sem Garantia" width="100%" />
+  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/phoenix-profile-banner-v2.png" alt="Phoenix Sem Garantia" width="760" />
 
-  <h1>PHOENIX SEM GARANTIA</h1>
-  <p><code>/// AUTOMAÇÃO · FRONT-END · SISTEMAS ///</code></p>
-  <p>Automação de processos, scripts e interfaces feitas para reduzir ruído e fazer as coisas acontecerem.</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=25&pause=1400&color=E6EDF3&center=true&vCenter=true&width=620&height=52&lines=PHOENIX+%2F%2F+SEM+GARANTIA" alt="Phoenix Sem Garantia" />
+  <br />
+  <code>AUTOMAÇÃO · FRONT-END · SISTEMAS</code>
+  <p>Automação de processos, scripts e interfaces com presença.</p>
 </div>
 
 ---
