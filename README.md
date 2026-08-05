@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/phoenix-profile-banner-v2.png" alt="Phoenix Sem Garantia" width="760" />
+  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/phoenix-profile-banner.gif" alt="Phoenix Sem Garantia" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=25&pause=1400&color=E6EDF3&center=true&vCenter=true&width=620&height=52&lines=PHOENIX+%2F%2F+SEM+GARANTIA" alt="Phoenix Sem Garantia" />
   <br />
@@ -38,7 +38,8 @@
 ## `ACTIVITY.MATRIX`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PhoenixSemGarantia&show_icons=true&hide_border=false&border_color=FFFFFF&border_radius=0&bg_color=0D1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&ring_color=FFFFFF" alt="Estatísticas do GitHub" />
+  <sub>[ CONTRIBUTION STREAK ]</sub>
+  <br /><br />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=PhoenixSemGarantia&hide_border=false&border=FFFFFF&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=0" alt="Sequência de contribuições" />
 </div>
 
