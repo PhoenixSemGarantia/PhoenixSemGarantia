@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/phoenix-profile-banner.gif" alt="Phoenix Sem Garantia" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=25&pause=1400&color=E6EDF3&center=true&vCenter=true&width=620&height=52&lines=PHOENIX+%2F%2F+SEM+GARANTIA" alt="Phoenix Sem Garantia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=25&pause=1400&color=E6EDF3&center=true&vCenter=true&width=620&height=52&lines=CLEIDSON+SANTOS+%2F%2F+PHOENIX" alt="Cleidson Santos" />
   <br />
-  <code>AUTOMAÇÃO · FRONT-END · SISTEMAS</code>
-  <p>Automação de processos, scripts e interfaces com presença.</p>
+  <code>SUPORTE N2 · INFRAESTRUTURA · CYBERSECURITY</code>
+  <p>17 anos · Assistente de Suporte de TI · Construindo base prática em sistemas, redes e automação.</p>
 </div>
 
 ---
@@ -12,25 +12,46 @@
 ## `SYSTEM.LOG`
 
 ```txt
-> INPUT: ideia crua
-> PROCESS: código + movimento + iteração
-> OUTPUT: experiência com presença
+> INPUT: incidente, chamado ou tarefa repetitiva
+> PROCESS: diagnóstico + investigação + automação
+> OUTPUT: ambiente mais estável e seguro
 > STATUS: online
 ```
 
 <div align="center">
-  <kbd>&nbsp;AUTOMATION&nbsp;</kbd>
-  <kbd>&nbsp;REACT&nbsp;</kbd>
-  <kbd>&nbsp;VITE&nbsp;</kbd>
-  <kbd>&nbsp;THREE.JS&nbsp;</kbd>
-  <kbd>&nbsp;JAVASCRIPT&nbsp;</kbd>
-  <kbd>&nbsp;CSS&nbsp;</kbd>
+  <kbd>&nbsp;HELP DESK N2&nbsp;</kbd>
+  <kbd>&nbsp;WINDOWS&nbsp;</kbd>
+  <kbd>&nbsp;REDES&nbsp;</kbd>
+  <kbd>&nbsp;LINUX&nbsp;</kbd>
+  <kbd>&nbsp;PYTHON&nbsp;</kbd>
+  <kbd>&nbsp;AUTOMAÇÃO&nbsp;</kbd>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,threejs,js,html,css,git,github&theme=dark" alt="React, Vite, Three.js, JavaScript, HTML, CSS, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,flask,linux,windows,git,github,html,css&theme=dark" alt="Python, Flask, Linux, Windows, Git, GitHub, HTML e CSS" />
+</div>
+
+---
+
+## `FOCUS.AREAS`
+
+| AREA | EM FOCO |
+| :-- | :-- |
+| `SUPORTE N2` | Software, rede e sistemas em ambiente corporativo. |
+| `INFRAESTRUTURA` | Diagnóstico, manutenção e monitoramento de servidores. |
+| `CYBERSECURITY` | Redes, análise de logs e pesquisa aplicada à segurança. |
+| `PYTHON` | Scripts para reduzir tarefas manuais; Flask, CustomTkinter e pywebview. |
+
+## `PROJECTS.QUEUE`
+
+- **AGAELMAH** — estudo de conscientização em segurança de aplicações web. `PYTHON · PYWEBVIEW · SQLITE`
+- **NET-SHIELD** — monitoramento de tráfego e detecção de anomalias. `PYTHON · SURICATA · ELK`
+- **LOG-HUNTER** — plataforma de análise de logs e threat hunting. `EM DESENVOLVIMENTO`
+
+<div align="center">
+  <a href="https://cleidsonsec.site"><b>[ PORTFÓLIO ]</b></a> · <a href="https://www.linkedin.com/in/cleidsons/"><b>[ LINKEDIN ]</b></a>
 </div>
 
 ---
