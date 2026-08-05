@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/ctos-banner-framed.gif" alt="Banner PhoenixSemGarantia" width="100%" />
 
-  <h1>PhoenixSemGarantia</h1>
+  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/title-gothic.png" alt="PhoenixSemGarantia" width="686" />
   <p><b>SUPORTE N2&nbsp;&nbsp;·&nbsp;&nbsp;INFRAESTRUTURA&nbsp;&nbsp;·&nbsp;&nbsp;CYBERSECURITY</b></p>
   <p><sub>Resolvendo problemas, automatizando rotinas e fortalecendo ambientes de TI.</sub></p>
 
