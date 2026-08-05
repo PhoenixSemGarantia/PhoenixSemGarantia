@@ -46,7 +46,7 @@
 ## `CONTRIBUTION.FEED`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" width="100%" />
+  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" width="100%" />
   <br />
   <sub>/// NOISE IS CHEAP. EXECUTION IS NOT. ///</sub>
 </div>
