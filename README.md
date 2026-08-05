@@ -5,8 +5,12 @@
   <p><b>SUPORTE N2&nbsp;&nbsp;·&nbsp;&nbsp;INFRAESTRUTURA&nbsp;&nbsp;·&nbsp;&nbsp;CYBERSECURITY</b></p>
   <p><sub>Resolvendo problemas, automatizando rotinas e fortalecendo ambientes de TI.</sub></p>
 
-  <a href="https://cleidsonsec.site"><b>[ PORTFÓLIO ]</b></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/cleidsons/"><b>[ LINKEDIN ]</b></a>
+  <a href="https://cleidsonsec.site">
+    <img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF&labelColor=0D1117" alt="Abrir portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/cleidsons/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Abrir LinkedIn" />
+  </a>
 </div>
 
 ---
