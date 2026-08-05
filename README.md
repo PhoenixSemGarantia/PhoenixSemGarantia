@@ -22,7 +22,18 @@
 | **Cybersecurity** | Redes, análise de logs e pesquisa aplicada à segurança. |
 | **Python** | Scripts para reduzir tarefas manuais; Flask, CustomTkinter e pywebview. |
 
+### ROTINA TÉCNICA
+
+- Atendimento e investigação de chamados de software, rede e sistema.
+- Diagnóstico de falhas, manutenção de hardware e apoio à infraestrutura.
+- Monitoramento de servidores e documentação de soluções para reduzir recorrências.
+- Criação e estudo de scripts em Python para automatizar tarefas manuais.
+
 ## 02 — STACK
+
+<div align="center"><sub>FERRAMENTAS QUE USO E TECNOLOGIAS QUE ESTOU APROFUNDANDO</sub></div>
+
+<br />
 
 <div align="center">
   <kbd>&nbsp;HELP DESK N2&nbsp;</kbd>
@@ -39,17 +50,48 @@
   <img src="https://skillicons.dev/icons?i=python,flask,linux,windows,git,github,html,css&theme=dark" alt="Python, Flask, Linux, Windows, Git, GitHub, HTML e CSS" />
 </div>
 
+<br />
+
+| FUNDAMENTO | DIREÇÃO |
+| :-- | :-- |
+| `Sistemas` | Windows, Linux, software e manutenção. |
+| `Redes` | Diagnóstico, conectividade e fundamentos de infraestrutura. |
+| `Segurança` | Análise de logs, telemetria e práticas defensivas. |
+| `Desenvolvimento` | Python para scripts, ferramentas e automação. |
+
 ## 03 — PROJETOS
 
-| PROJETO | DESCRIÇÃO | STACK |
-| :-- | :-- | :-- |
-| **AGAELMAH** | Estudo de conscientização em segurança de aplicações web. | `Python` · `pywebview` · `SQLite` |
-| **NET-SHIELD** | Monitoramento de tráfego e detecção de anomalias. | `Python` · `Suricata` · `ELK` |
-| **LOG-HUNTER** | Plataforma de análise de logs e threat hunting. | Em desenvolvimento |
+| PROJETO | STATUS | DESCRIÇÃO | STACK |
+| :-- | :-- | :-- | :-- |
+| **AGAELMAH** | `FINALIZADO` | Estudo de conscientização em segurança de aplicações web. | `Python` · `pywebview` · `SQLite` |
+| **NET-SHIELD** | `PLANEJAMENTO` | Ideia de monitoramento de tráfego e detecção de anomalias. | `Python` · `Suricata` · `ELK` |
+| **LOG-HUNTER** | `PLANEJAMENTO` | Ideia de plataforma para análise de logs e threat hunting. | `Elasticsearch` · `Python` |
+
+> Projetos em planejamento ainda não representam ferramentas prontas. O AGAELMAH é o projeto concluído do portfólio.
+
+## 04 — PRÓXIMOS PASSOS
+
+```txt
+[x] Consolidar experiência prática em Suporte N2
+[x] Construir AGAELMAH
+[ ] Criar automações úteis com Python
+[ ] Aprofundar infraestrutura, redes e análise de logs
+[ ] Evoluir NET-SHIELD e LOG-HUNTER do planejamento para protótipos
+```
+
+<div align="center">
+  <sub>APRENDIZADO ATUAL</sub><br /><br />
+  <kbd>&nbsp;PYTHON&nbsp;</kbd>
+  <kbd>&nbsp;FLASK&nbsp;</kbd>
+  <kbd>&nbsp;CUSTOMTKINTER&nbsp;</kbd>
+  <kbd>&nbsp;REDES&nbsp;</kbd>
+  <kbd>&nbsp;LOG ANALYSIS&nbsp;</kbd>
+  <kbd>&nbsp;LINUX&nbsp;</kbd>
+</div>
 
 ---
 
-## 04 — ATIVIDADE
+## 05 — ATIVIDADE
 
 <div align="center">
   <sub>CONTRIBUTION STREAK</sub>
