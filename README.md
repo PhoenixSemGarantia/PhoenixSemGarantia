@@ -78,14 +78,16 @@
 ## 04 — ATIVIDADE
 
 <div align="center">
-  <sub>CONTRIBUTION STREAK</sub>
+  <sub>ATIVIDADE RECENTE</sub>
   <br /><br />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=PhoenixSemGarantia&hide_border=false&border=FFFFFF&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=0" alt="Sequência de contribuições" />
+  <img height="165" src="https://streak-stats.demolab.com?user=PhoenixSemGarantia&hide_border=false&border=FFFFFF&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=0" alt="Sequência de contribuições" />
 </div>
 
 <br />
 
 <div align="center">
+  <sub>MAPA DE CONTRIBUIÇÕES</sub>
+  <br /><br />
   <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" width="100%" />
   <br />
   <sub>NOISE IS CHEAP. EXECUTION IS NOT.</sub>
