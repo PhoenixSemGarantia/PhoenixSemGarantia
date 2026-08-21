@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/pinterest-banner.gif?v=cutout-title-xl" alt="Banner animado PhoenixSemGarantia" width="100%" />
+  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/phoenixsemgarantia-banner.gif?v=1" alt="Banner animado PhoenixSemGarantia" width="100%" />
   <p><b>SUPORTE N2&nbsp;&nbsp;·&nbsp;&nbsp;INFRAESTRUTURA&nbsp;&nbsp;·&nbsp;&nbsp;CYBERSECURITY</b></p>
   <p><sub>Resolvendo problemas, automatizando rotinas e fortalecendo ambientes de TI.</sub></p>
 
