@@ -6,10 +6,10 @@
   <p><sub>Resolvendo problemas, automatizando rotinas e fortalecendo ambientes de TI.</sub></p>
 
   <a href="https://cleidsonsec.site">
-    <img src="https://cleidsonsec.site/favicon.png?v=5" alt="Ícone do portfólio" height="28" /><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&labelColor=0D1117" alt="Abrir portfólio" />
+    <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/portfolio-favicon.png?v=1" alt="Ícone do portfólio" height="28" /><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&labelColor=0D1117" alt="Abrir portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/cleidsons/">
-    <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" alt="Ícone do LinkedIn" height="28" /><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="Abrir LinkedIn" />
+    <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/linkedin.svg?v=1" alt="Ícone do LinkedIn" height="28" /><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="Abrir LinkedIn" />
   </a>
 </div>
 
