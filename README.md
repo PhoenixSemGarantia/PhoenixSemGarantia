@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/ctos-banner-framed.gif" alt="Banner PhoenixSemGarantia" width="100%" />
+  <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/pinterest-banner.gif" alt="Banner Alfa Rodo Bus" width="100%" />
 
   <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/title-tech.png" alt="PhoenixSemGarantia" width="547" />
   <p><b>SUPORTE N2&nbsp;&nbsp;·&nbsp;&nbsp;INFRAESTRUTURA&nbsp;&nbsp;·&nbsp;&nbsp;CYBERSECURITY</b></p>
