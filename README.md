@@ -9,7 +9,7 @@
     <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/portfolio-favicon.png?v=2" alt="Ícone do portfólio" height="28" /><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0D1117?style=for-the-badge&labelColor=0D1117" alt="Abrir portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/cleidsons/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2" alt="Abrir LinkedIn" />
+    <img src="https://raw.githubusercontent.com/PhoenixSemGarantia/PhoenixSemGarantia/main/assets/linkedin-icon.png?v=1" alt="Ícone do LinkedIn" height="28" /><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&labelColor=0A66C2" alt="Abrir LinkedIn" />
   </a>
 </div>
 
